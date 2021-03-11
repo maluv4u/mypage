@@ -37,6 +37,8 @@ h2 {
 h3 {
   font-family: "Montserrat", sans-serif;
   color: #11999e;
+  width: 40%;
+  margin: auto;
 }
 
 p {
@@ -70,7 +72,7 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 200px;
   bottom: 300px;
 }
 
